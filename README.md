@@ -1,5 +1,5 @@
 # React-charts-and-tables
-Treinando criação de tabelas e gráficos.
+Training in creating tables and graphs, in react with node.js.
 
 ## Used technology
 - Node.js
