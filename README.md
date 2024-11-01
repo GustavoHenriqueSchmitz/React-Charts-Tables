@@ -22,19 +22,19 @@ Donwload Link: [Docker-Compose](https://docs.docker.com/compose/install/)
 ### Install the dependencies
 
 #### Back-end
-Open a terminal and go to the back-end directory and execute `npm i`
+Open a terminal and go to the back-end directory and run `npm i`
 
 #### Front-end
-Open a terminal and go to the front-end directory and execute `npm i`
+Open a terminal and go to the front-end directory and run `npm i`
 
 ## Running App
 
 ### Back-end
-**1 -** Open a terminal, go to the back-end directory and execute the command `docker-compose up`  
-**2 -** Open another terminal, go to the back-end directory and execute the command `node main.js`
+**1 -** Open a terminal, go to the back-end directory and run the command `docker-compose up`  
+**2 -** Open another terminal, go to the back-end directory and run the command `node main.js`
 
 ### Front-end
-**1 -** Open a terminal, go to the front-end directory and execute `npm start`
+**1 -** Open a terminal, go to the front-end directory and run `npm start`
 
 ## Author
 **Gustavo Henrique Schmitz**
