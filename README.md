@@ -1,5 +1,5 @@
 # React-charts-and-tables
-Training in creating tables and graphs, in react with node.js.
+Training tables and charts creation in react.
 
 ## Used technology
 - Node.js
@@ -21,20 +21,18 @@ Donwload Link: [Docker-Compose](https://docs.docker.com/compose/install/)
 
 ### Install the dependencies
 
-#### Back-end
-Open a terminal and go to the back-end directory and run `npm i`
-
-#### Front-end
-Open a terminal and go to the front-end directory and run `npm i`
+**1 -** Open a terminal, go to the front-end directory and run:
+```
+npm i
+```
 
 ## Running App
 
-### Back-end
-**1 -** Open a terminal, go to the back-end directory and run the command `docker-compose up`  
-**2 -** Open another terminal, go to the back-end directory and run the command `node main.js`
-
 ### Front-end
-**1 -** Open a terminal, go to the front-end directory and run `npm start`
+**1 -** Open a terminal, go to the front-end directory and run:
+```
+npm start
+```
 
 ## Author
 **Gustavo Henrique Schmitz**
