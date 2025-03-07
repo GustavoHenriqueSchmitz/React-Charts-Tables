@@ -7,6 +7,7 @@ import {
 import { Table } from './components/Table';
 import { Principal } from './components/principal/principal';
 import { Graphic } from './components/Graphic';
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route exact path="/grafico" element={<Graphic/>}/>
         </Routes>
       </Router>
+      <Analytics/>
     </>
   )
 }
